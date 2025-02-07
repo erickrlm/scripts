@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Download a list of videos from a simple txt file when using sites without playlist support
+
 # Set delay time in seconds
 DELAY_SECONDS=5
 
